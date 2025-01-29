@@ -1,0 +1,20 @@
+{
+  "name": "javascript-practicas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lizzy",
+  "license": "ISC",
+  "description": "Hola Mundo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizethGonzalez/Practica1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LizethGonzalez/Practica1/issues"
+  },
+  "homepage": "https://github.com/LizethGonzalez/Practica1#readme"
+}
